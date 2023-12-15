@@ -16,4 +16,12 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | Chapter | Repository |
 | ------ | ------ |
 | JAVA | [Java lecture sources](https://github.com/HI-2023-JavaFullStack-8/01_JAVA.git) |
+
+&nbsp; 
+
+## 🔎 Practice
+
+| Chapter | Repository |
+| ------ | ------ |
+| JAVA | [Java practice](https://github.com/HI-2023-JavaFullStack-8/01_JAVA_practice.git) & [Java answer](https://github.com/HI-2023-JavaFullStack-8/01_JAVA_answer.git)|
  
