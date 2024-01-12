@@ -17,6 +17,8 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | ------ | ------ |
 | JAVA | [Java lecture sources](https://github.com/HI-2023-JavaFullStack-8/01_JAVA.git) |
 | MySQL | [MySQL lecture sources](https://github.com/HI-2023-JavaFullStack-8/02_MySQL.git) |
+| JDBC | [JDBC lecture sources](https://github.com/HI-2023-JavaFullStack-8/03_JDBC.git) |
+
 
 
 &nbsp; 
