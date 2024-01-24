@@ -20,6 +20,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | JDBC | [JDBC lecture sources](https://github.com/HI-2023-JavaFullStack-8/03_JDBC.git) |
 | MyBatis | [MyBatis lecture sources](https://github.com/HI-2023-JavaFullStack-8/04_MyBatis) |
 | HTML & CSS | [HTML5 & CSS3 lecture sources](https://github.com/HI-2023-JavaFullStack-8/05_HTML_-_CSS.git) |
+| JavaScript | [JavaScript lecture sources](https://github.com/HI-2023-JavaFullStack-8/06_JavaScript.git) |
 
 
 
