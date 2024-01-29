@@ -31,7 +31,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | Chapter | Repository |
 | ------ | ------ |
 | JAVA | [Java practice](https://github.com/HI-2023-JavaFullStack-8/01_JAVA_practice.git) & [Java answer](https://github.com/HI-2023-JavaFullStack-8/01_JAVA_answer.git)|
-| MyBatis | [MyBatis practice](https://github.com/HI-2023-JavaFullStack-8/04_MyBatis_practice.git)|
+| MyBatis | [MyBatis practice](https://github.com/HI-2023-JavaFullStack-8/04_MyBatis_practice.git) & [MyBatis sample project](https://github.com/HI-2023-JavaFullStack-8/04_MyBatis_practice_sample.git)|
 
  
 
