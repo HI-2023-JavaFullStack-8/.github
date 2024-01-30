@@ -1,17 +1,18 @@
 # _HImedia Java FullStack Development_
 >React.js와 Springboot를 활용한 자바 풀스택 개발자 (8회차)
 
-&nbsp; 
-
 ### ✨  담당 강사 
-
 ```
 new Teacher("남윤진", "yunjiniius@gmail.com");
 ```
 
-&nbsp; 
+<br><br><br>
 
 ## 🔎 Lecture Sources
+
+<br>
+
+### 🌟 Back-end
 
 | Chapter | Repository |
 | ------ | ------ |
@@ -19,12 +20,18 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | MySQL | [MySQL lecture sources](https://github.com/HI-2023-JavaFullStack-8/02_MySQL.git) |
 | JDBC | [JDBC lecture sources](https://github.com/HI-2023-JavaFullStack-8/03_JDBC.git) |
 | MyBatis | [MyBatis lecture sources](https://github.com/HI-2023-JavaFullStack-8/04_MyBatis) |
-| HTML & CSS | [HTML5 & CSS3 lecture sources](https://github.com/HI-2023-JavaFullStack-8/05_HTML_-_CSS.git) |
+| Servlet & JSP | [Servlet & JSP lecture sources](https://github.com/HI-2023-JavaFullStack-8/07_Servlet-JSP.git) |
+
+<br>
+
+### 🖥️ Front-end
+
+| Chapter | Repository |
+| ------ | ------ |
+| HTML & CSS | [HTML5 & CSS3 lecture sources](https://github.com/HI-2023-JavaFullStack-8/05_HTML-CSS.git) |
 | JavaScript | [JavaScript lecture sources](https://github.com/HI-2023-JavaFullStack-8/06_JavaScript.git) |
 
-
-
-&nbsp; 
+<br><br><br>
 
 ## 🔎 Practice
 
@@ -32,6 +39,3 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | ------ | ------ |
 | JAVA | [Java practice](https://github.com/HI-2023-JavaFullStack-8/01_JAVA_practice.git) & [Java answer](https://github.com/HI-2023-JavaFullStack-8/01_JAVA_answer.git)|
 | MyBatis | [MyBatis practice](https://github.com/HI-2023-JavaFullStack-8/04_MyBatis_practice.git) & [MyBatis sample project](https://github.com/HI-2023-JavaFullStack-8/04_MyBatis_practice_sample.git)|
-
- 
-
