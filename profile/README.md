@@ -21,6 +21,8 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | JDBC | [JDBC lecture sources](https://github.com/HI-2023-JavaFullStack-8/03_JDBC.git) |
 | MyBatis | [MyBatis lecture sources](https://github.com/HI-2023-JavaFullStack-8/04_MyBatis) |
 | Servlet & JSP | [Servlet & JSP lecture sources](https://github.com/HI-2023-JavaFullStack-8/07_Servlet-JSP.git) |
+| SpringFramework | [Spring Core lecture sources](https://github.com/HI-2023-JavaFullStack-8/09_Spring-Core.git) |
+
 
 <br>
 
