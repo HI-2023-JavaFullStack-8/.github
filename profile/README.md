@@ -23,6 +23,8 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | Servlet & JSP | [Servlet & JSP lecture sources](https://github.com/HI-2023-JavaFullStack-8/07_Servlet-JSP.git) |
 | SpringFramework | [Spring Core technology lecture sources](https://github.com/HI-2023-JavaFullStack-8/09_Spring-Core.git) |
 | SpringBoot | [Spring Boot (WebMVC, Thymeleaf) lecture sources](https://github.com/HI-2023-JavaFullStack-8/10_Spring-Boot.git) |
+| SpringMybatis | [MyBatis-Spring 연동 lecture sources](https://github.com/HI-2023-JavaFullStack-8/11_Spring-MyBatis.git) |
+| SpringSecurity | [Spring Security lecture sources](https://github.com/HI-2023-JavaFullStack-8/12_Spring-Security.git) |
 
 <br>
 
