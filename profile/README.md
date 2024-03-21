@@ -17,7 +17,6 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | Chapter | Repository |
 | ------ | ------ |
 | JAVA | [Java lecture sources](https://github.com/HI-2023-JavaFullStack-8/01_JAVA.git) |
-| MySQL | [MySQL lecture sources](https://github.com/HI-2023-JavaFullStack-8/02_MySQL.git) |
 | JDBC | [JDBC lecture sources](https://github.com/HI-2023-JavaFullStack-8/03_JDBC.git) |
 | MyBatis | [MyBatis lecture sources](https://github.com/HI-2023-JavaFullStack-8/04_MyBatis) |
 | Servlet & JSP | [Servlet & JSP lecture sources](https://github.com/HI-2023-JavaFullStack-8/07_Servlet-JSP.git) |
@@ -25,6 +24,13 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | SpringBoot | [Spring Boot (WebMVC, Thymeleaf) lecture sources](https://github.com/HI-2023-JavaFullStack-8/10_Spring-Boot.git) |
 | SpringMybatis | [MyBatis-Spring 연동 lecture sources](https://github.com/HI-2023-JavaFullStack-8/11_Spring-MyBatis.git) |
 | SpringSecurity | [Spring Security lecture sources](https://github.com/HI-2023-JavaFullStack-8/12_Spring-Security.git) |
+
+<br>
+
+### 🗃 Database
+| Chapter | Repository |
+| ------ | ------ |
+| MySQL | [MySQL lecture sources](https://github.com/HI-2023-JavaFullStack-8/02_MySQL.git) |
 
 <br>
 
@@ -42,6 +48,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | Chapter | Repository |
 | ------ | ------ |
 | Ajax | [AJAX lecture sources](https://github.com/HI-2023-JavaFullStack-8/08_Ajax.git) |
+| REST API | [REST API lecture sources](https://github.com/HI-2023-JavaFullStack-8/13_REST-API.git) |
 
 <br><br><br>
 
