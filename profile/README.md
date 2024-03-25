@@ -24,6 +24,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | SpringBoot | [Spring Boot (WebMVC, Thymeleaf) lecture sources](https://github.com/HI-2023-JavaFullStack-8/10_Spring-Boot.git) |
 | SpringMybatis | [MyBatis-Spring 연동 lecture sources](https://github.com/HI-2023-JavaFullStack-8/11_Spring-MyBatis.git) |
 | SpringSecurity | [Spring Security lecture sources](https://github.com/HI-2023-JavaFullStack-8/12_Spring-Security.git) |
+| JPA (Spring Data JPA) | [JPA lecture sources](https://github.com/HI-2023-JavaFullStack-8/14_JPA.git) |
 
 <br>
 
@@ -43,7 +44,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 
 <br>
 
-### 🔥 Skills
+### 🔥 Skills & Architectures
 
 | Chapter | Repository |
 | ------ | ------ |
