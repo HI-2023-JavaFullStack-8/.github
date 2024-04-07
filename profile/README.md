@@ -41,6 +41,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | ------ | ------ |
 | HTML & CSS | [HTML5 & CSS3 lecture sources](https://github.com/HI-2023-JavaFullStack-8/05_HTML-CSS.git) |
 | JavaScript | [JavaScript lecture sources](https://github.com/HI-2023-JavaFullStack-8/06_JavaScript.git) |
+| React.js | [React.js lecture sources](https://github.com/HI-2023-JavaFullStack-8/15_React.js.git) |
 
 <br>
 
